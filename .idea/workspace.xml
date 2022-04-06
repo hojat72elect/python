@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fe5722e-ff3e-4123-98bd-5358cb912c13" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hojat.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/micons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/vendor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CV_26_March_2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CV_3_April_2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/HOJAT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/HOJAT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Thesis FINAL_Hojat Ghasemi_ 16-Feb-2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/intro-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profile_pic_hojat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sample-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pace.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27Qm8f9t5U3UMKolfJ5lL4c4lAM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PYTHON\SourceCodes\portfolio" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fe5722e-ff3e-4123-98bd-5358cb912c13" name="Changes" comment="" />
+      <created>1649260526287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649260526287</updated>
+    </task>
+    <task id="LOCAL-00001" summary="portfolio">
+      <created>1649261299185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649261299185</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio" />
+  </component>
+</project>

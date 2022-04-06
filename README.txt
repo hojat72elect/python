@@ -1,1 +1,1 @@
-Hello this my CV.
+This is a frequently updated portfolio of my python projects.
